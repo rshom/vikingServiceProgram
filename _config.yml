@@ -18,8 +18,8 @@ email: service@vikingequip.com
 phone: (800) 505 5058
 description: >- # this means to ignore newlines until "baseurl:"
   Viking Equipment is the largest automotive garage equipment distributor in Connecticut, Rhode Island, and Massachusetts. Since 1989, Viking has specialized in automotive shop installations, renovations, and full garage equipment service. Viking has built over 100 automotive service centers since its founding 27 years ago.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/vikingServiceProgram" # the subpath of your site, e.g. /blog
+url: "https://rshom.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
 #github_username:  jekyll
 
