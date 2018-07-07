@@ -10,7 +10,7 @@ Viking is fully prepared for any job of any size. We have multiple **manufacture
 
 In addition to our team, we own the right equipment for every job. This includes a fleet of trucks, fork lifts, scissor lifts, heavy duty trailers, and every specialty tool required. We don't need to improvise solutions because we are already **prepared with the parts, equipment, and experience required for any job**.
 
-For the best service possible, [join our inspection program](/inspections).
+For the best service possible, [join our inspection program](inspections).
 
 # Parts Inventory
 
@@ -20,7 +20,7 @@ Because we keep such a large inventory, we can generally **solve service calls i
 
 For the lifts below, we stock the listed **parts on the shelf** plus more. In addition to lifts, we stock **parts for compressors, lubrication and exhaust systems, tire changers, wheel balancers, and more**.
 
-Don't see your lift? [Call today](/contact) to get it added!
+Don't see your lift? [Call today](contact) to get it added!
 
 ## Currently Stocked Lift Parts
 
