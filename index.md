@@ -7,7 +7,7 @@ layout: page
 
 Viking Equipment provides **sales, installation, and service** solutions for virtually every need of every automotive shop including **[lifts](/equipment), [alignment](/equipment), [wheel service](/equipment), [compressed air](/equipment), [exhaust removal](/equipment), [lubrication delivery](/equipment), [waste oil removal](/equipment), [storage](/equipment), and [shop equipment](/equipment).**
 
-[Contact us](/contact), we have solutions for nearly every need.
+[Contact us](contact), we have solutions for nearly every need.
 
 Want to know more, just ask any one of our many [references](/references)
 
