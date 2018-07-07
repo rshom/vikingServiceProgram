@@ -25,7 +25,11 @@ url: "https://rshom.github.io" # the base hostname & protocol for your site, e.g
 
 # Build settings
 markdown: kramdown
+<<<<<<< HEAD
 theme: minima
+=======
+theme: jekyll-theme-modernist
+>>>>>>> c13e7ff49e0f93792639cbd950bd3a400621119b
 plugins:
   - jekyll-feed
 
