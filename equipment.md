@@ -4,7 +4,7 @@ title: Equipment
 permalink: /equipment/
 ---
 
-Description about being full spectrum and supporting all needs. We provide service to back up our sales. Installation and service done by viking.
+Description about being full spectrum and supporting all needs. We provide service to back up our sales. Installation and service done by viking **without subcontractors**.
 
 # Lifts
 
